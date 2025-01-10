@@ -137,7 +137,7 @@ nav {
 .btn-contact:is(:focus, :hover) {
   background-color: #e5a186;
   border-color: #e5a186;
-  color: white;
+  color: black;
   transform: scale(1.1);
 }
 @media (max-width: 768px) {
